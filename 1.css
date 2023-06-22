@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
+h1{
+    color: black;
+}
+p{
+    font-family: cursive;
+    font-size: larger;
+}
+li{
+    font-family: cursive;
+    font-size:18px;
+}
+dt{
+    font-family: cwTeXFangSong, serif;
+    font-size:23px;
+    color:#c44f54;
+}
